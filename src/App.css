@@ -1,0 +1,90 @@
+@font-face {font-family: "GelderSansW00-Bold"; src: url("//db.onlinewebfonts.com/t/5477194e13d8858a4a11d4e41d3b65c5.eot"); src: url("//db.onlinewebfonts.com/t/5477194e13d8858a4a11d4e41d3b65c5.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/5477194e13d8858a4a11d4e41d3b65c5.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/5477194e13d8858a4a11d4e41d3b65c5.woff") format("woff"), url("//db.onlinewebfonts.com/t/5477194e13d8858a4a11d4e41d3b65c5.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/5477194e13d8858a4a11d4e41d3b65c5.svg#GelderSansW00-Bold") format("svg"); }
+      .head {
+        text-align: center;
+        font-family: "GelderSansW00-Bold";
+      }
+      .hinp{
+        padding: 25px;
+        align-content: center;
+        border-radius: 4px;
+        border: 1px solid gray;
+      }
+      .nella {
+        height: 50px;
+        background-size: cover;
+        display: flex; 
+        border: 1px solid gray;
+        border-radius: 4px;
+      }
+      #im {
+        display: inline;
+        background-color: rgb(36,163,182);
+        padding: 15px;
+      }
+      #in {
+        width: 100%;
+        background-size: cover;
+        outline:none;
+        font-size: 150%;
+        padding-left: 2%;
+      }
+      #add {
+        width: 100%;
+        margin-top: 20px;
+      }
+      .but {
+        background-color: rgb(36,163,182);
+        color: aliceblue;
+        text-align: center;
+        border-radius: 4px;
+        border: none;
+        font-size: 1.3em;
+        height: 45px;
+      }
+      .func {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 80px;
+      }
+      .adt {
+        width: 30%;
+      }
+      .func2{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+      }
+      #ddt, #dat {
+        background-color: rgb(217,54,73);
+        width: 47%;
+      }
+      .elem{
+        padding: 10px;
+        padding-right: 20px;
+        border: 1px solid gray;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        display: flex;
+      }
+      #cb, #pl, #gh{
+        display: inline;
+        width: 1.3em;
+      }
+      .jo {
+        display: flex;
+        justify-content: space-between;
+        width: 70px;
+        height: 20px;
+        margin-left: auto;
+      }
+      .etext {
+        font-family: "GelderSansW00-Bold";
+        font-size: 1.3em;
+      }
+      .under {
+        color: red;
+        text-decoration: line-through;
+      }
+      /* .check {
+
+      } */
